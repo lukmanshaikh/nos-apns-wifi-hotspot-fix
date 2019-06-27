@@ -1,4 +1,4 @@
-RR Low InCall Volume Fix
+LOS NOS/WTF APNs & Wi-Fi Hotspot fix
 ==========
 
 Fixes MMS not sending/downloading and Wi-Fi Hotspot not delivering Internet on LOS 15.1+ (and based) ROMs using the Portuguese carrier NOS/WTF.
@@ -27,7 +27,7 @@ To restore your ROM's default APNs, remove/disable the module and, after rebooti
 
 
 ## Links
-* [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![Magisk](https://img.shields.io/badge/Magisk-19%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
